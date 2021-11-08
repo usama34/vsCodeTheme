@@ -1,0 +1,22 @@
+{
+    "name": "Gvalley",
+    "displayName": "Gvalley",
+    "description": "Gvalley A color-theme for VS code.",
+    "version": "0.0.1",
+    "publisher": "sam01",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gvalley",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gvalley-color-theme.json"
+            }
+        ]
+    }
+}
